@@ -50,11 +50,11 @@
             
             ]
         }
-    ]
-}
+    ],
 
 
-{
+
+
     "Navbar":[
 {
             "id":1,
@@ -257,8 +257,7 @@
         }
     ]
 
-}
-{
+,
     "cards":[
         {
             "id":1,
@@ -543,9 +542,7 @@
 
 
     ]
-}
- 
-{
+, 
     "footer":[
         {
             "id":1,
@@ -582,39 +579,39 @@
             "text":"API",
            
             "subMenu":[]
-        }
+        },
         {
             "id":7,
             "text":"Account",
             "subMenu":[
                 {
                     "id":1,
-                    "text":"Español (EU)"
+                    "text":""
 
                 },
                 {
                     "id":2,
-                    "text":"English (EU)"
+                    "text":""
 
                 },
                 {
                     "id":3,
-                    "text":"Deutsch"
+                    "text":""
 
                 },
                 {
                     "id":4,
-                    "text":"日本語"
+                    "text":""
 
                 },
                 {
                     "id":5,
-                    "text":"ภาษาไทย"
+                    "text":""
 
                 },
                 {
                     "id":6,
-                    "text":"Português (Brasil)"
+                    "text":""
 
                 }
             
@@ -622,5 +619,6 @@
         }
     ]
 }
+
 
 
